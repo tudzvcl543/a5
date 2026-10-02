@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.A5" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorAccent">#0B6E4F</item>
+    </style>
+</resources>
